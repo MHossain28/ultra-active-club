@@ -1,0 +1,86 @@
+[
+    {
+      "id": "6334a2501683fcfe080b6b52",
+      "picture": "https://images.pexels.com/photos/8720973/pexels-photo-8720973.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 40,
+      "name": "Prayers",
+      "time": 50
+    },
+    {
+      "id": "6334a2502216bf123d96a16b",
+      "picture": "https://images.pexels.com/photos/2261485/pexels-photo-2261485.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 30,
+      "name": "Workout",
+      "time": 30
+    },
+    {
+      "id": "6334a250eb26cd499d456a84",
+      "picture": "https://images.pexels.com/photos/258353/pexels-photo-258353.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 32,
+      "name": "Study",
+      "time": 70
+    },
+    {
+      "id": "6334a2509a7d39a098c38047",
+      "picture": "https://images.pexels.com/photos/4709289/pexels-photo-4709289.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 33,
+      "name": "Programming",
+      "time": 120
+    },
+    {
+      "id": "6334a250897dbf325e46fca6",
+      "picture": "https://images.pexels.com/photos/3811867/pexels-photo-3811867.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 24,
+      "name": "Watching Series",
+      "time": 60
+    },
+    {
+      "id": "6334a2506f11ab0f3e7e8bfc",
+      "picture": "https://images.pexels.com/photos/3856050/pexels-photo-3856050.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "age": 35,
+      "name": "Scrolling FB",
+      "time": 20
+    },
+    {
+      "id": "6334a2504471d00d9823fc78",
+      "picture": "https://images.pexels.com/photos/3962294/pexels-photo-3962294.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 39,
+      "name": "Shopping",
+      "time": 30
+    },
+    {
+      "id": "6334a250676d1a4b3a1c434b",
+      "picture": "https://images.pexels.com/photos/159844/cellular-education-classroom-159844.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "age": 21,
+      "name": "Teaching",
+      "time": 45
+    },
+    {
+      "id": "6334a2500677c4780cfe0c0c",
+      "picture": "https://images.pexels.com/photos/2544829/pexels-photo-2544829.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 30,
+      "name": "Making Food",
+      "time": 40
+    },
+    {
+      "id": "6334a250af971a85a7998384",
+      "picture": "https://images.pexels.com/photos/972513/pexels-photo-972513.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 35,
+      "name": "Playing Football",
+      "time": 30
+    },
+    {
+      "id": "6334a2506186abb08bc0dc5b",
+      "picture": "https://images.pexels.com/photos/4549414/pexels-photo-4549414.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 32,
+      "name": "Making Blog",
+      "time": 50
+    },
+    {
+      "id": "6334a250ec305b8bb37d5708",
+      "picture": "https://images.pexels.com/photos/206396/pexels-photo-206396.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "age": 33,
+      "name": "Sleeping",
+      "time": 100
+    }
+  ]
